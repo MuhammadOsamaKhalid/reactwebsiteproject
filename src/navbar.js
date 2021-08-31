@@ -6,7 +6,7 @@ const Navbar = () => {
     const [show,setShow] = useState(false);
     return (
         <>
-        <section classNameName="navbar_bg">
+        <section className="navbar_bg">
         <nav className="navbar navbar-expand-lg navbar-light">
         <div className="container">
         <NavLink className="navbar-brand" to="/">React Website</NavLink>
