@@ -631,7 +631,7 @@ footer .main-hero-para{
 
 .main-herosection-images{
   margin-top: 5rem;
-  position: relative;
+  position: absolute;
   height: 25rem;
 }
 
